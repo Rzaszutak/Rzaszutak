@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rzaszutak;
+- String name = "Rzaszutak";
 - 👀 I’m interested in learning how Github can help me learn to advance my skills in coding and eventually help me land a job in IT;
 - 🌱 I’m currently learning Java and SQL in school. Looking to expannd my knowledge of the 2, and also learn Powershell and HTML;
 - 💞️ I’m looking to collaborate on...not sure yet;
